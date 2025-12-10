@@ -1,0 +1,15 @@
+{
+  "name": "SWA Tracker",
+  "short_name": "SWA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1976F2",
+  "theme_color": "#1976F2",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

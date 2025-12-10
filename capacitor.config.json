@@ -1,0 +1,6 @@
+{
+  "appId": "com.swa.tracker",
+  "appName": "SWA Tracker",
+  "webDir": "./",
+  "bundledWebRuntime": false
+}
